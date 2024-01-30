@@ -1,0 +1,83 @@
+body{
+    background: #000;
+}
+
+.container{
+    width: 40%;
+    margin: auto;
+    background: #fff;
+    margin-top: 50px;
+}
+
+.logo{
+    font-size: 50px;
+}
+
+.cabecera{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.box-left{
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+}
+
+h1{
+    font-size: 25px;
+    padding-left: 10px;
+    margin-top: 15px;
+    margin-bottom: -20px;
+}
+
+.nombre{
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.box-rigth{
+    padding-right: 15px;
+}
+
+.menu{
+    font-size: 40px;
+}
+
+.paisaje{
+    width: 100%;
+}
+
+.iconos{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.icons-left{
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    font-size: 35px ;
+}
+
+.icons{
+    padding-left: 10px;
+}
+
+.icons-rigth{
+    padding-right: 15px;
+    font-size: 35px;
+}
+
+.parrafo-1{
+    font-size: 150%;
+    padding-left: 10px;
+}
+
+.parrafo-2{
+    font-size: 150%;
+    padding-left: 10px;
+    padding-bottom: 10%;
+}
